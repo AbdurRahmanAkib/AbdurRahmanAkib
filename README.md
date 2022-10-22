@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ARR/h1>
+<h1 align="center">Hi 👋, I'm Abdur Rahman h1>
 
 ---
 <h3 align="center">Kaggle Grandmaster</br>
